@@ -87,7 +87,7 @@ class Hawker extends React.Component {
                                         Ban Mian
                                     </Typography>
                                     <Typography variant="body2" color="text.secondary">
-                                        Ordered by Jason (16/4/2022 21:00:00)
+                                        Ordered by Jason (6/4/2022 21:00:00)
                                     </Typography>
                                     <Typography variant="body2" color="text.primary">
                                         Quantity Left: 0
@@ -109,7 +109,7 @@ class Hawker extends React.Component {
                                             Ban Mian
                                         </Typography>
                                         <Typography variant="body2" color="text.secondary">
-                                            Ordered by John (16/4/2022 20:32:00)
+                                            Ordered by John (6/4/2022 20:32:00)
                                         </Typography>
                                         <Typography variant="body2" color="text.primary">
                                             Quantity Left: 1
@@ -130,7 +130,7 @@ class Hawker extends React.Component {
                                             Laksa
                                         </Typography>
                                         <Typography variant="body2" color="text.secondary">
-                                            Ordered by Emily (16/4/2022 20:31:00)
+                                            Ordered by Emily (6/4/2022 20:31:00)
                                         </Typography>
                                         <Typography variant="body2" color="text.primary">
                                             Quantity Left: 3
