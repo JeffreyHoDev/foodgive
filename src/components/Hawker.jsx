@@ -21,6 +21,16 @@ class Hawker extends React.Component {
         display: 'none',
     });
 
+    handleChange = (e) => {
+        if(e.target.value > 10) {
+            // const newValue = Math.min(Math.max(e.target.value, 1), 10)
+            e.target.value = 10
+        }else if(e.target.value < 0) {
+            e.target.value = 0
+        }
+        
+    }
+
     render(){
         return (
             <div className='hawker-page'>
@@ -50,6 +60,7 @@ class Hawker extends React.Component {
                         label="Quantity (max 10)"
                         type="number"
                         InputProps={{ inputProps: { min: 1, max: 10 } }}
+                        onChange={(e) => this.handleChange(e)}
                         />
                         <TextField
                         id="outlined-name"
@@ -59,8 +70,9 @@ class Hawker extends React.Component {
                         />
                     </Box>
                     <label htmlFor="contained-button-file">
-                        <this.Input accept="image/*" id="contained-button-file" multiple type="file" />
+                        
                         <Button variant="contained" component="span">
+                        <this.Input accept="image/*" id="contained-button-file" multiple type="file" />
                             Upload Photo
                         </Button>
                     </label>
