@@ -69,7 +69,7 @@ class App extends React.Component {
               "name": "Popiah",
               "image_name": "popiah.jpeg",
               "location": "Smiling Restaurant",
-              "description": "Already prepare, pay and go",
+              "description": "Take and go",
               "quantity": 5
           },
           {

@@ -72,7 +72,7 @@ class Hawker extends React.Component {
     
                 </div>
                 <div className='past-record-section'>
-                    <h2>16th Apr 2022</h2>
+                    <h2>6th Apr 2022</h2>
                     <div className='past-record-foods'>
                         <Box m={2}>
                             <Card sx={{ maxWidth: 345 }}>
