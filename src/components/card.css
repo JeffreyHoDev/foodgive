@@ -1,0 +1,25 @@
+.cardlist {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 1.5%;
+    grid-row-gap: 2%;
+    justify-items: center;
+    align-items: center;
+}
+
+.card-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.redirect-button {
+    cursor: pointer;
+}
+
+.title {
+    font-family: 'Beau Rivage', cursive;
+    font-size: 50px;
+}
+
+

@@ -1,0 +1,30 @@
+.hawker-page {
+    display: flex;
+    flex-direction: row;
+}
+
+.hawker-section {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    height: 100%;
+    align-content: space-evenly;
+}
+
+.redirect-button {
+    cursor: pointer;
+}
+
+label {
+    margin-top: 10px;
+}
+
+.past-record-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.past-record-foods {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
