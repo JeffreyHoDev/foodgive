@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39797b36.css",
+    "main.js": "/static/js/main.3c787c7d.js",
+    "static/js/787.df757bf6.chunk.js": "/static/js/787.df757bf6.chunk.js",
+    "static/media/economicrice.jpeg": "/static/media/economicrice.06bf53baefe8e0e991b2.jpeg",
+    "static/media/chweekueh.jpeg": "/static/media/chweekueh.8f6016fc116ad1e24541.jpeg",
+    "static/media/meatballnoodles.jpeg": "/static/media/meatballnoodles.3da5c761e1831dcf1103.jpeg",
+    "static/media/currypuff.jpeg": "/static/media/currypuff.2ee21c4649f410cec3a5.jpeg",
+    "static/media/carrotcake.jpeg": "/static/media/carrotcake.49a39097787873e5f93a.jpeg",
+    "static/media/chickenrice2.jpeg": "/static/media/chickenrice2.dc8e675824fc91f7f037.jpeg",
+    "static/media/nasilemak.jpg": "/static/media/nasilemak.271bda6fd423d32d17b8.jpg",
+    "static/media/laksa.jpeg": "/static/media/laksa.6ac7d995731fa9da567e.jpeg",
+    "static/media/banmian.jpeg": "/static/media/banmian.ac1e340ffccf1f6b8a8c.jpeg",
+    "static/media/rojak.jpeg": "/static/media/rojak.0bc6c3aaa62641da70c4.jpeg",
+    "static/media/otak.jpeg": "/static/media/otak.feccb7403ebaa3d19826.jpeg",
+    "static/media/meesoto.jpeg": "/static/media/meesoto.b27344b3cdc6bc89eb52.jpeg",
+    "static/media/kuih.jpeg": "/static/media/kuih.d6af1900926af35cb67a.jpeg",
+    "static/media/popiah.jpeg": "/static/media/popiah.ae0eb6a0e56934cc4d6a.jpeg",
+    "static/media/redbeanbun.jpeg": "/static/media/redbeanbun.2f1074c200fc6fc1fe34.jpeg",
+    "static/media/chickenrice.jpeg": "/static/media/chickenrice.a7c5212c25285b6cf3f7.jpeg",
+    "static/media/pancake.jpeg": "/static/media/pancake.f90b970f90154820799f.jpeg",
+    "index.html": "/index.html",
+    "main.39797b36.css.map": "/static/css/main.39797b36.css.map",
+    "main.3c787c7d.js.map": "/static/js/main.3c787c7d.js.map",
+    "787.df757bf6.chunk.js.map": "/static/js/787.df757bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39797b36.css",
+    "static/js/main.3c787c7d.js"
+  ]
+}
